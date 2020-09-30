@@ -1,0 +1,14 @@
+﻿  Library.cpp
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(170,11): warning C4101: 'run': unreferenced local variable
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(161,7): warning C4101: 'check': unreferenced local variable
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(555,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(590,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(799,20): warning C4101: 'ammot': unreferenced local variable
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(888,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(1018,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(1026,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(1044,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(1070,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(1833,7): warning C4101: 'check': unreferenced local variable
+C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Library.cpp(2327,8): warning C4101: 'p': unreferenced local variable
+  DoAnGiaiThuatLapTrinh.vcxproj -> C:\Users\VanTu\source\repos\DoAnGiaiThuatLapTrinh\Debug\DoAnGiaiThuatLapTrinh.exe
